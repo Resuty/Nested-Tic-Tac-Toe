@@ -1,0 +1,16 @@
+/Library/
+/Temp/
+/[Oo]bj/
+/Logs/
+/UserSettings/
+/Build/
+/Builds/
+/Verification/*
+!/Verification/测试记录.md
+/.vs/
+/.idea/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.userprefs

@@ -1,0 +1,6 @@
+{
+  "name": "WellWithinWell.PlayMode",
+  "references": ["UnityEngine.UI"],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "autoReferenced": false
+}

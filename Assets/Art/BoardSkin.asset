@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83f55d7305bad484aa1f5f477209c606, type: 3}
+  m_Name: BoardSkin
+  m_EditorClassIdentifier: WellWithinWell.Presentation::WellWithinWell.Presentation.BoardSkin
+  circle: {fileID: 21300000, guid: 7fbc9e7d7acb388439b2e78e03cf7a09, type: 3}
+  cross: {fileID: 21300000, guid: 3f805550f4a55184798e05f39cf1a154, type: 3}
+  draw: {fileID: 21300000, guid: 4ae2f20f1e4259c45bd23b13366442bc, type: 3}
+  lastMove: {fileID: 21300000, guid: 51229ba1b7771f941b203d26dbb7505e, type: 3}

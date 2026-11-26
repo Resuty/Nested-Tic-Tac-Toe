@@ -1,0 +1,5 @@
+{
+  "name": "WellWithinWell.Presentation",
+  "rootNamespace": "WellWithinWell.Presentation",
+  "references": ["WellWithinWell.Rules", "UnityEngine.UI"]
+}
